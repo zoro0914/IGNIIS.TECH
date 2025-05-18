@@ -10,3 +10,25 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+TECNOLOGIES USED IN THIS PROJECT
+
+1. React.js	Core library for building user interfaces using components.
+2. React Router DOM	For routing between pages like Home, About, Services, Contact, etc.
+3. Tailwind CSS	Utility-first CSS framework for fast, responsive, modern styling.
+4. Framer Motion	For adding smooth animations and transitions.
+
+SUMMARY :
+
+React.js
+
+React Router DOM
+
+Tailwind CSS
+
+Framer Motion
+
+Lucide-react or Heroicons
+
+Vite (dev server & build tool)
+
